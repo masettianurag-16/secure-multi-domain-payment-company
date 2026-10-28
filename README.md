@@ -296,28 +296,36 @@ This executes **20 automated verification tests** using Flask's test client and 
 *Placeholders are provided below. To display actual screenshots, capture images from your running application and save them into a `screenshots/` directory.*
 
 ### 1. Main Website & Domain Navigation
-![Main Website](screenshots/home_page.png)
-*Figure 1: Home page illustrating the 5 logical application domains, pre-seeded accounts, and security overview.*
+<img width="1887" height="962" alt="Screenshot 2026-10-28 220837" src="https://github.com/user-attachments/assets/8ceb6a93-fbef-4576-a4bc-2928c6289ef7" />
+<img width="1898" height="957" alt="Screenshot 2026-10-28 220851" src="https://github.com/user-attachments/assets/8471b02b-85d8-475f-b5a7-67a883d5a6d5" />
+
 
 ### 2. Customer Dashboard
-![Customer Dashboard](screenshots/customer_dashboard.png)
-*Figure 2: Authenticated customer view displaying account metrics, role status, and recent demo payments.*
+<img width="1887" height="976" alt="Screenshot 2026-10-28 220935" src="https://github.com/user-attachments/assets/c6067fff-8737-456b-96d3-9f6104a9104e" />
+<img width="1892" height="907" alt="Screenshot 2026-10-28 221001" src="https://github.com/user-attachments/assets/427cccd0-b16c-4d00-a52b-86a5e61090c7" />
+<img width="1885" height="882" alt="Screenshot 2026-10-28 221018" src="https://github.com/user-attachments/assets/bfe9eb75-3ad5-4e23-b758-4ced9d2c6e4b" />
+
 
 ### 3. Payment Checkout Simulation
-![Payment Form](screenshots/payment_form.png)
-*Figure 3: Demo payment simulator with test card helpers, input sanitization notices, and CVV discard confirmation.*
+<img width="1872" height="890" alt="Screenshot 2026-10-28 221045" src="https://github.com/user-attachments/assets/c63a2b86-4111-43ea-aeb5-9020589eb7d7" />
+<img width="1896" height="902" alt="Screenshot 2026-10-28 221106" src="https://github.com/user-attachments/assets/e49cb6ba-f190-40b9-b001-3a6f69333543" />
+
 
 ### 4. Sanitized Transaction Receipt
-![Payment Receipt](screenshots/receipt.png)
-*Figure 4: Confirmation receipt showing the transaction reference and masked card format (`**** 1111`).*
+<img width="1887" height="901" alt="Screenshot 2026-10-28 221123" src="https://github.com/user-attachments/assets/3193a19a-cc5d-4a4b-92c7-a734bf81a950" />
+<img width="1886" height="953" alt="Screenshot 2026-10-28 221143" src="https://github.com/user-attachments/assets/c6599d9c-cb59-4dab-be3c-efd050b40dee" />
+
 
 ### 5. Administrative Control Console
-![Admin Dashboard](screenshots/admin_dashboard.png)
-*Figure 5: Administrator console tracking registered accounts, total demo volume, and blocked privilege attempts.*
+<img width="1882" height="896" alt="Screenshot 2026-10-28 221226" src="https://github.com/user-attachments/assets/9209a572-4588-4c3e-8411-d06d10969ca4" />
+<img width="1882" height="868" alt="Screenshot 2026-10-28 221254" src="https://github.com/user-attachments/assets/388a0e72-1eb3-4796-b733-7e48083b866a" />
+
 
 ### 6. Security Event Audit Logs
-![Security Logs](screenshots/admin_logs.png)
-*Figure 6: Real-time security audit trail filterable by `SUCCESS`, `FAILURE`, and `BLOCKED` outcomes.*
+<img width="1892" height="912" alt="Screenshot 2026-10-28 221309" src="https://github.com/user-attachments/assets/3326fc80-2fcb-4098-94ec-55af2e58410c" />
+<img width="1882" height="862" alt="Screenshot 2026-10-28 221424" src="https://github.com/user-attachments/assets/25d6ebe8-a46b-4960-80a1-dd7715f2f3cc" />
+<img width="1917" height="717" alt="Screenshot 2026-10-28 221438" src="https://github.com/user-attachments/assets/9b736b68-d3ad-4f99-a1da-5dae64358b09" />
+<img width="1897" height="851" alt="Screenshot 2026-10-28 221456" src="https://github.com/user-attachments/assets/682f6fd6-48ca-4c08-97dc-14de05d92213" />
 
 ---
 
